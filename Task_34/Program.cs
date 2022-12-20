@@ -34,7 +34,7 @@ int GetNumber (int[] arr)
 }
 
 int[] Arr = NewArr(SIZE, LEFT_RANGE, RIGHT_RANGE);
-ShowArr(Arr);
+//ShowArr(Arr);
 int Number =  GetNumber(Arr);
 System.Console.WriteLine("Ответ: ");
 System.Console.Write(Number);
