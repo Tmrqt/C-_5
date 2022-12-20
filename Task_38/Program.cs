@@ -46,7 +46,7 @@ return result;
 }
 
 int[] Arr = NewArr (SIZE, LEFT_RANGE, RIGHT_RANGE);
-ShowArr(Arr);
+//ShowArr(Arr);
 int Number =  GetNumber(Arr);
 System.Console.Write("Ответ: ");
 System.Console.Write (Number);
